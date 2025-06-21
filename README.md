@@ -1,9 +1,5 @@
-# 📈 FinE Project: Significance of Bond Yields in Economic Analysis
+# 📈 Finanical Engineering Project: Significance of Bond Yields in Economic Analysis
 
-**Author:** Harsh Shah  
-**ID:** 2022A7PS0169P  
-**Institution:** BITS Pilani  
-**Year:** 2025  
 
 ## 📘 Introduction
 
